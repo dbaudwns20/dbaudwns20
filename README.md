@@ -5,8 +5,7 @@
 - 협업을 통해 지식을 공유하고 함께 만들어가는 분위기를 지향합니다.
 - 맡은 일에 최선을 다하는 책임감 있는 개발자가 되자는 모토를 갖고 있습니다.
 
-
-#### 사용 가능 기술
+#### 기술
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -26,11 +25,17 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbaudwns20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Portfolio
-1. ### Learning Curve
-      학원 관리 웹 솔루션입니다. 학원을 생성하고 원생을 등록해서 클래스 단위로 시험, 숙제, 일정등을 기록할 수 있습니다.<br><br>
- [Learning Curve 이용하기](https://learningcurve.co.kr/)  <br>
- [Learning Curve 안내](https://learningcurve.co.kr/)  
+1. #### Learning Curve
+      <a>
+            <img src="https://github.com/dbaudwns20/dbaudwns20/assets/33855022/fd51defb-d988-4087-ad75-7d71548666ca" width="200">
+      </a>
+      <br>
+      러닝커브는 학원 운영 및 학습 활동을 효율적으로 관리하고 지원하는 웹 서비스입니다.
       
+      주요 기능으로는 `학생, 선생님 정보 관리`, `클래스별 일정 관리`, `시험 성적 게시`, `숙제 질문 사전 수집` 등이 있습니다.<br>
+      
+      [Learning Curve 이용하기](https://learningcurve.co.kr/) / [Learning Curve 안내](https://glory-hedge-825.notion.site/Learning-Curve-87a048d795b544c59bf605526f0ee53a?pvs=74)
+            
 
 
 
