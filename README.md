@@ -5,7 +5,7 @@
 - 협업을 통해 지식을 공유하고 함께 만들어가는 분위기를 지향합니다.
 - 맡은 일에 최선을 다하는 책임감 있는 개발자가 되자는 모토를 갖고 있습니다.
 
-#### 기술
+#### Skills
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
