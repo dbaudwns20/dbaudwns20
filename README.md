@@ -29,6 +29,14 @@
       <img src="https://github.com/dbaudwns20/dbaudwns20/assets/33855022/fd51defb-d988-4087-ad75-7d71548666ca" width="200">
       <br>
       러닝커브는 학원 운영 및 학습 활동을 효율적으로 관리하고 지원하는 웹 서비스입니다.
+
+      ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+      ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+      ![bulma](https://img.shields.io/badge/bulma-gray.svg?style=for-the-badge&logo=bulma&logoColor=default)
+      ![sass](https://img.shields.io/badge/SASS-gray.svg?style=for-the-badge&logo=SASS&logoColor=default)
+      ![grpc](https://img.shields.io/badge/gRPC-gray.svg?style=for-the-badge&logo=gRPC&logoColor=default)
+      ![webpack](https://img.shields.io/badge/webpack-gray.svg?style=for-the-badge&logo=webpack&logoColor=default)
+      ![pwa](https://img.shields.io/badge/pwa-gray.svg?style=for-the-badge&logo=pwa&logoColor=default)
       
       #### 주요 기능
    
