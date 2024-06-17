@@ -42,6 +42,14 @@
 1. #### WTS Web Editor
       <img src="https://github.com/dbaudwns20/dbaudwns20/assets/33855022/60b8c15a-84a0-4bdd-bae3-459aa3e47d38" width="200">
       <br>
+
+      ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+      ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+      ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+      ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+      ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+      ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+      
       WTS Web Editor는 게임 워크래프트3의 인게임 텍스트 파일을 손쉽게 번역할 수 있는 사용자 인터페이스를 제공하며, 번역된 파일을 다운로드할 수 있는 웹 페이지입니다.
 
       #### 주요 기능
